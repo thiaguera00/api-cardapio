@@ -1,6 +1,6 @@
 # api-cardapio
 
-#tenho que ficar bom em php
+# tenho que ficar bom em php
 
 API feita com PHP puro para cadastro de cardápio
 <br>
