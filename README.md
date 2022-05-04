@@ -7,4 +7,4 @@ API feita com PHP puro para cadastro de cardápio
 
 o foco da API é melhorar os conhecimentos em PHP 🚀
 <br>
-também tem login com jwt(muito dificil implementar sem composer) 😭
+também tem login com token jwt (muito dificil implementar sem composer) 😭
